@@ -6,9 +6,9 @@ def load_data(filepath):
         return json_data.read()    
 
 
-def pretty_print_json(data):
+def pretty_print_json(text_json):
     try:
-        json_data = json.loads(data)
+        json_data = json.loads(text_json)
     except ValueError as e:
         print("Не удалось прочитать JSON-файл", e)
         return
