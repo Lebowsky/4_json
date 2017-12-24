@@ -1,10 +1,10 @@
-# Prettify JSON
+# Удобный JSON
 
 Скрипт для вывода файла в формате JSON в удобочитаемом виде
 
-# Quickstart
+# Как запустить
 
-Example of script launch on Linux, Python 3.5:
+Пример запуска на Linux, Python 3.5:
 
 ```bash
 
@@ -72,6 +72,6 @@ $ python pprint_json.py <path to file>
 
 ```
 
-# Project Goals
+# Цели проекта
 
-The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
+Код создан в учебных целях. В рамках учебного курса по веб-разработке - [DEVMAN.org](https://devman.org)
